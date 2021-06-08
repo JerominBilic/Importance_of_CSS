@@ -1,0 +1,7 @@
+Can you share with us from your point of view why to use CSS?
+In my opinion, the biggest reason why CSS is used is to engage the audience and increase accessibility. Of course websites could be created using only html and all the important information would be there, but that would be difficult to navigate, read and digest the information.
+That is why CSS is important, it makes it easier to consume the information provided by the website, also it draws the user to spend more time in the site itself which could lead to more traffic and higher usage.
+Another big advantage of using it is that its easy to maintain and understand and since the language is universal, anyone with the knowledge and experience can maintain the website to keep up with the times.
+
+Which one of the mentioned examples would you like to design?
+I really liked the “Solo” website, since it is simplistic yet it is very well designed and sophisticated which is difficult to achieve, and it’s one of the reasons many companies are as popular as they are, such as Apple.
